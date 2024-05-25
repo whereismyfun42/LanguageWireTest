@@ -1,0 +1,4 @@
+C:\Users\where\OneDrive\Desktop\xakep\languagewiretest\LanguageWireTranslateTests\obj\Debug\netcoreapp3.1\LanguageWireTranslateTests.csprojAssemblyReference.cache
+C:\Users\where\OneDrive\Desktop\xakep\languagewiretest\LanguageWireTranslateTests\obj\Debug\netcoreapp3.1\LanguageWireTranslateTests.AssemblyInfoInputs.cache
+C:\Users\where\OneDrive\Desktop\xakep\languagewiretest\LanguageWireTranslateTests\obj\Debug\netcoreapp3.1\LanguageWireTranslateTests.AssemblyInfo.cs
+C:\Users\where\OneDrive\Desktop\xakep\languagewiretest\LanguageWireTranslateTests\obj\Debug\netcoreapp3.1\LanguageWireTranslateTests.csproj.CoreCompileInputs.cache
